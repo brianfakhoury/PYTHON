@@ -1,2 +1,2 @@
 # PYTHON
-Collection of small python projects + codes
+Collection of small python projects + scripts
